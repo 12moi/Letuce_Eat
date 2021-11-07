@@ -1,0 +1,64 @@
+
+header{
+    background-image: url("imgaes/background1.png");
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-decoration: white;
+}       
+.navi{
+    display:inline-flex;
+    justify-content: flex-start;
+    padding: 15px;
+    border-radius: 5px;
+    align-content:space-between;
+    margin: 0px;
+    line-height: 1px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    text-decoration: red;
+    background-position: center;
+    height: 50px;
+    margin: 0px;
+}
+h1>p{
+    justify-content: center;
+    align-content: center;
+    background-color: grey;
+}
+.menu{
+    justify-content: safe;
+    text-decoration: yellow;
+    background-color: grey;
+}
+.card{
+    display: table-column;
+}
+.row{
+    display: inline-table;
+    background-color:none;
+}
+.h3{
+    align-items: center;
+    justify-content: right;
+    transform: none;
+    display: table-row;
+}
+.h2{
+    float: inline-end;
+    text-transform: none;
+    text-align: end;
+}
+div.Footer{
+    background-image: url(/imgaes/background2.png);
+    background-size:cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-blend-mode: screen;
+    justify-content: flex-end;
+    height: 500px;
+}
