@@ -19,7 +19,7 @@ header{
 h1{
     display: flex;
     justify-content: center;
-    text-decoration: red;
+    text-decoration:grey;
     background-position: center;
     height: 50px;
     margin: 0px;
