@@ -60,17 +60,36 @@ h1>p{
     align-content: center;
     background-color: grey;
 }
+.row{
+    width: 100%;
+    box-shadow:  grey;
+    padding: 50px;
+}
+.row image{
+
+}
 .menu{
     justify-content: safe;
     text-decoration: yellow;
     background-color: grey;
 }
-.card{
-    display: table-column;
+section card{
+    background-color: grey;
 }
-.row{
+.card{
     display: inline-table;
-    background-color:none;
+    flex: right;
+    width: 250px;
+    box-shadow: 1px 1px 1px 1px;
+    padding: 50px;
+    background-color: white;
+}
+card1{
+    display: inline-table;
+    flex-direction: row;
+    width: 200px;
+    box-shadow: 2px 2px 2px 2px;
+    padding: 40px;
 } 
 h6{
     font-size: 15px;
