@@ -38,6 +38,10 @@ span{
 
     color: white;
     float:right;
+}
+.navi span{
+    color: yellow;
+    font-size: 30px;
 } 
 p1{
     font-size: 30px;
