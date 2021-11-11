@@ -73,22 +73,22 @@ h1>p{
     text-decoration: yellow;
     background-color: grey;
 }
-section card{
+.section card{
     background-color: grey;
 }
 .card{
     display: inline-table;
     flex: right;
     width: 250px;
-    box-shadow: 1px 1px 1px 1px;
+    box-shadow: 1px 1px 1px 1px grey;
     padding: 50px;
     background-color: white;
 }
-card1{
-    display: inline-table;
-    flex-direction: row;
+.card1{
+    display: table-row;
+    justify-content: center;
     width: 200px;
-    box-shadow: 2px 2px 2px 2px;
+    box-shadow: 2px 2px 2px 2px white;
     padding: 40px;
 } 
 h6{
@@ -131,6 +131,6 @@ div.about{
 }
 .footer{
     background-color: black;
-    color: white;
+    text-decoration: white;
     height:40px;
 }
