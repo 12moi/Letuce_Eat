@@ -91,6 +91,10 @@ h1>p{
     box-shadow: 2px 2px 2px 2px white;
     padding: 40px;
 } 
+card1 img{
+    height: 100px;
+    width: 100px;
+}
 h6{
     font-size: 15px;
     color: white;
