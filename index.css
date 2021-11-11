@@ -65,9 +65,6 @@ h1>p{
     box-shadow:  grey;
     padding: 50px;
 }
-.row image{
-
-}
 .menu{
     justify-content: safe;
     text-decoration: yellow;
@@ -85,15 +82,15 @@ h1>p{
     background-color: white;
 }
 .card1{
-    display: table-row;
+    display: table;
     justify-content: center;
     width: 200px;
     box-shadow: 2px 2px 2px 2px white;
     padding: 40px;
 } 
-card1 img{
-    height: 100px;
-    width: 100px;
+.card1 img{
+    height: 400px;
+    width: 400px;
 }
 h6{
     font-size: 15px;
