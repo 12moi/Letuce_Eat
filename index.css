@@ -86,6 +86,9 @@ h1>p{
     
     background-color: white;
 }
+.card c{
+    border: 2px solid;
+}
 .card1{
     display: flex;
     border: 2 solid;
