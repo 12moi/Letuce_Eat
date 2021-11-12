@@ -97,14 +97,15 @@ h1>p{
     height: 400px;
     width: 400px;
 }
-h6{
+
+.h6{
     font-size: 15px;
     color: white;
     border: 2px solid white;
     width: 100px;
     padding: 5px;
 }
-h7{
+.h7{
     color: white;
     font-size: 30px;
 }
