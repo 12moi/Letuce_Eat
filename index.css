@@ -78,19 +78,20 @@ h1>p{
     background-color: grey;
 }
 .card{
-    display: inline-flexbox;
-    flex: right;
-    width: 250px;
+    display: flex;
+    border: 2 px solid;
+    padding: 10px;
+    justify-content: center;
     box-shadow: 1px 1px 1px 1px grey;
-    padding: 50px;
+    
     background-color: white;
 }
 .card1{
-    display: table;
-    justify-content: center;
-    width: 200px;
+    display: flex;
+    border: 2 solid;
+    width: 2px;
     box-shadow: 2px 2px 2px 2px white;
-    padding: 40px;
+    
 } 
 .card1 img{
     height: 400px;
